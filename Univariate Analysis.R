@@ -5,7 +5,7 @@ library(data.table)
 
 
 # Read the .dat file (skip the first 3 lines)
-data <- read.table("C:\\Users\\wankh\\Desktop\\Datasets\\adult\\adult.data", header = TRUE)
+data <- read.table("C:\\Datasets\\adult\\adult.data", header = TRUE)
 
 
 #Export the data to a CSV file
